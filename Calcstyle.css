@@ -1,0 +1,24 @@
+#results {
+    display:none;
+  }
+body, .below {    
+  background-image: url("olive.jpg");
+  background-size: cover; 
+  backdrop-filter: blur(4px);
+}
+#shame {
+  color: black;
+  background-color: darkolivegreen;
+}
+img {
+  size: 100%;
+  opacity: 0;
+}
+.subtext {
+  color: rgb(115, 148, 58);
+  font-size: small;
+}
+.sub {
+  color: rgb(115, 148, 58);
+  font-size: smaller;
+}
